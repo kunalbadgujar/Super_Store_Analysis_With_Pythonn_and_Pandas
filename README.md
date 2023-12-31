@@ -1,6 +1,6 @@
 # Sales Analysis - Sales Analysis With Python and Pandas
 
-A 'Sales Analysis' was performed on sample data using Python, Pandas in a Jupyter Notebook via Anaconda. The analysis aimed to address specific questions related to sales trends, total sales, product performance, customer segmentation, geographic patterns, seasonal variations, profitability, and correlations with other variables. The use of these powerful libraries facilitated data exploration and visualization to derive insights from the sample sales data.
+A 'Sales Analysis' was performed on sample data using Python, Pandas, matplotlib, seaborn in a Jupyter Notebook via Anaconda. The analysis aimed to address specific questions related to sales trends, total sales, product performance, customer segmentation, geographic patterns, seasonal variations, profitability, and correlations with other variables. The use of these powerful libraries facilitated data exploration and visualization to derive insights from the sample sales data.
 
 1. What are the best selling products?
 2. What are the top 10 selling products?
