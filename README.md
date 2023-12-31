@@ -1,26 +1,26 @@
-# Python ile Satış Analizi - Sales Analysis With Python & Pandas
+# Sales Analysis - Sales Analysis With Python and Pandas
 
-Pandas,Matplotlib ve Seaborn kütüphanesi ile  örnek bir veri üzerinden 'Satış Analizi' yapılmıştır. Anaconda üzerinden Jupyter Notebook kullanılıp,
-örnek satış analizinde aşağıdaki sorulara cevap aranmıştır.
+A 'Sales Analysis' was performed on sample data using Python, Pandas in a Jupyter Notebook via Anaconda. The analysis aimed to address specific questions related to sales trends, total sales, product performance, customer segmentation, geographic patterns, seasonal variations, profitability, and correlations with other variables. The use of these powerful libraries facilitated data exploration and visualization to derive insights from the sample sales data.
 
-1.	En çok satan ürünler hangileridir? 
-2.	Satışı en iyi olan 10 ürün hangileridir? 
-3.	Hangi ürün daha çok kar getirmiş? 
-4.	Hangi kategori daha çok satış yapmıştır? 
-5.	Hangi kategori daha çok karlı?
-6.	Kategori ve alt kategorideki toplam satış değerleri nedir? 
-7.	Alt kategorilerde en çok satan ürünler hangileridir? 
-8.	Hangi müşteri segmenti daha çok karlıdır? - Which customer segments are the most profitable ?
-9.	Kargo süreçlerinin satışa etkisi nedir? 
-10.	Kargo süreçlerinin kategori bazlı satışa etkisi nedir? 
-11.	Hangi ürün pazarı daha çok satış yapmıştır? 
-12.	En çok satış yapan ilk 10 ülke hangileridir? 
-14.	Ortalama olarak en fazla kargo ücreti ödeyen ilk 10 ülkeler hangileridir? 
-15.	En çok kar getiren ilk 10 müşteri kimlerdir? 
-17.	Yıl ve aylara göre toplam satış değerleri nedir? 
+1. What are the best selling products?
+2. What are the top 10 selling products?
+3. Which product brought more profit?
+4. Which category made more sales?
+5. Which category is more profitable?
+6. What are the total sales values ​​in the category and subcategory?
+7. What are the best-selling products in the subcategories?
+8. Which customer segment is more profitable? - Which customer segments are the most profitable?
+9. What is the impact of shipping processes on sales?
+10. What is the impact of shipping processes on category-based sales?
+11. Which product market sold more?
+12. Which are the top 10 countries with the highest sales?
+14. Which are the top 10 countries that pay the highest shipping costs on average?
+15. Who are the top 10 most profitable customers?
+17. What are the total sales values ​​by year and month?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Objective: Data Manipulation and exploring with Pandas.
+
 # Technique used:
 I use Python Pandas & Python to analyze and answer business questions about SuperStore of sales data.
 Seaborn, pandas, matplotlib
